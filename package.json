@@ -1,0 +1,16 @@
+{
+  "name": "atomus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Green @ DiNo Development",
+  "license": "ISC",
+  "dependencies": {
+    "bad-words": "^1.6.3",
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.0.0"
+  }
+}
