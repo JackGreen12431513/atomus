@@ -63,7 +63,7 @@ client.on('message', message => {
             })
 
         } else {
-            message.channel.send(`Sorry, ${message.author}, you can not purge!`).then(msg => {
+            message.channel.send(`🚫 Sorry, ${message.author}, you can not purge!`).then(msg => {
                 msg.delete(3000);
             })
         }
